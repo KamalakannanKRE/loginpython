@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/77136d17-6c82-418f-a9ee-3c4819845642/resourceGroups/armwebapppythonrg1/providers/Microsoft.Web/sites/armwebapppython",
+    "appService.deploySubpath": "."
+}
